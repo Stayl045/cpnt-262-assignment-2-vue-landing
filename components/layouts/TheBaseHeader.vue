@@ -1,6 +1,7 @@
 <template>
-  <header class="flex gap-4 bg-green-200 py-4 justify-items-center">
+  <header class="flex justify-items-auto py-4 text-white">
     <TheLogo />
+
     <TheNavBar />
   </header>
 </template>

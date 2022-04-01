@@ -1,8 +1,8 @@
 <template>
-  <nav class="flex gap-4 m-auto text-xl">
+  <nav class="flex gap-10 text-xl m-auto justify-items-end">
     <a :href="'/'">Home</a>
     <a :href="'/'">About</a>
-    <a :href="'/'">Films</a>
+    <a :href="'/'">Contact</a>
   </nav>
 </template>
 

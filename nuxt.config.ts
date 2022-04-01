@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     "~/components/footer",
     "~/components/card",
     "~/components/hero",
+    "~/components/quote",
   ],
   buildModules: ["@nuxtjs/tailwindcss"],
   modules: [],
