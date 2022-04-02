@@ -11,7 +11,9 @@
       <!-- <HeroDescription>{{ hero.description }}</HeroDescription> -->
       <HeroTitle>{{ hero.title }}</HeroTitle>
       <CardButton
-        ><button class="text-white p-7 border rounded-2xl mt-6">
+        ><button
+          class="text-white p-7 border rounded-2xl mt-6 font-extrabold hover:bg-slate-50 hover:text-black"
+        >
           {{ hero.button }}
         </button></CardButton
       >
