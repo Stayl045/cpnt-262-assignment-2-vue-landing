@@ -7,6 +7,7 @@
 ## Struggles
 
 - I struggled with adding some breakpoints to the cards to make them more responsive. I will investigate further in future projects
+  - Therefore, the card wont be as responsive on smaller screens
 
 ## Repo:
 
