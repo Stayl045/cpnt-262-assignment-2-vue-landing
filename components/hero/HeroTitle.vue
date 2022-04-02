@@ -1,5 +1,7 @@
 <template>
-  <section class="text-white grid text-center text-7xl font-semibold px-16">
+  <section
+    class="text-white grid text-center text-7xl font-semibold px-16 xs:invisible md:visible"
+  >
     <slot></slot>
   </section>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div
-    class="ml-3 text-2xl font-extrabold text-white absolute items-end justify-self-end"
+    class="ml-3 text-2xl font-extrabold text-white absolute items-end justify-self-end xs:invisible md:visible"
   >
     <a href="#">
       <img src="#" alt="DesignByStephan" />

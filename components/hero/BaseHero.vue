@@ -12,7 +12,7 @@
       <HeroTitle>{{ hero.title }}</HeroTitle>
       <CardButton
         ><button
-          class="text-white p-7 border rounded-2xl mt-6 font-extrabold hover:bg-slate-50 hover:text-black"
+          class="text-white p-7 border rounded-2xl mt-6 font-extrabold hover:bg-slate-50 hover:text-black xs:invisible md:visible"
         >
           {{ hero.button }}
         </button></CardButton
