@@ -2,7 +2,7 @@
 
 ## Thoughts on Project
 
-- I really sunk a lot of time into this assignment. The fun of making it all work really took a hold of me! I just couldn't stop lol but it was a learning experience on how to use grid, flex, and nuxt3 in greater depth. This will definitely help going forward for the group and final project!
+- I really sunk a lot of time into this assignment. The fun of making it all work really took hold of me! I just couldn't stop lol but it was a learning experience on how to use grid, flex, and nuxt3 in greater depth. This will definitely help going forward for the group and final project!
 
 ## Struggles
 
