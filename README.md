@@ -8,6 +8,14 @@
 
 - I struggled with adding some breakpoints to the cards to make them more responsive. I will investigate further in future projects
 
+## Repo:
+
+- https://github.com/Stayl045/cpnt-262-assignment-2-vue-landing
+
+## Netlify
+
+- https://stellar-cendol-1ca661.netlify.app/
+
 ### March 25th Plan:
 
 1. Create a boilerplate nuxt3 project
