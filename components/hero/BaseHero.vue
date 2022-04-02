@@ -6,13 +6,13 @@
     class="h-screen bg-cover"
   >
     <TheBaseHeader />
-    <div class="grid text-center content-center mt-64">
+    <div class="grid text-center content-center mt-64 xs:mt-20">
       <SmallTitle>{{ hero.smltitle }}</SmallTitle>
       <!-- <HeroDescription>{{ hero.description }}</HeroDescription> -->
       <HeroTitle>{{ hero.title }}</HeroTitle>
       <CardButton
         ><button
-          class="text-white p-7 border rounded-2xl mt-6 font-extrabold hover:bg-slate-50 hover:text-black xs:invisible md:visible"
+          class="text-white p-7 border rounded-2xl mt-6 font-extrabold hover:bg-slate-50 hover:text-black"
         >
           {{ hero.button }}
         </button></CardButton

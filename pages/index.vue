@@ -8,6 +8,6 @@
     >
       <BaseCard />
     </div>
-    <BaseFooter />
   </section>
+  <BaseFooter />
 </template>

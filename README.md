@@ -2,7 +2,11 @@
 
 ## Thoughts on Project
 
+- I really sunk a lot of time into this assignment. The fun of making it all work really took a hold of me! I just couldn't stop lol but it was a learning experience on how to use grid, flex, and nuxt3 in greater depth. This will definitely help going forward for the group and final project!
+
 ## Struggles
+
+- I struggled with adding some breakpoints to the cards to make them more responsive. I will investigate further in future projects
 
 ### March 25th Plan:
 
@@ -43,3 +47,4 @@
   - Photo by [Enzo Tommasi](https://images.unsplash.com/photo-1571115764595-644a1f56a55c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1041&q=80)
 - Quote
   - Paul Rand quote
+- My brother Adrian Taylor helped me figure out breakpoints better
